@@ -1,0 +1,21 @@
+eventTitle = "";
+eventsList = ds_list_create();
+ds_list_add(eventsList, "greeting")
+ds_list_add(eventsList, "idle");
+ds_list_add(eventsList, "appetizer");
+ds_list_add(eventsList, "drinks");
+ds_list_add(eventsList, "idle");
+ds_list_add(eventsList, "idle");
+ds_list_add(eventsList, "idle");
+ds_list_add(eventsList, "dinner");
+ds_list_add(eventsList, "idle");
+ds_list_add(eventsList, "idle");
+ds_list_add(eventsList, "dessert");
+ds_list_add(eventsList, "idle");
+ds_list_add(eventsList, "gift");
+ds_list_add(eventsList, "end");
+evIndex = 0;
+eventAction = true;
+happiness = 65;
+compliments = 0;
+gift = "";
