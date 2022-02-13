@@ -3,7 +3,6 @@
   "glyphOperations": 0,
   "interpreter": 0,
   "pointRounding": 0,
-  "applyKerning": 0,
   "fontName": "Arial",
   "styleName": "Bold",
   "size": 16.0,
